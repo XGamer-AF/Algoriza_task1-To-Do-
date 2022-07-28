@@ -7,22 +7,20 @@
 
 -screen shots
 
+*Iphone Apps
+![Simulator Screen Shot - iPhone 12 Pro Max - 2022-07-28 at 11 05 24](https://user-images.githubusercontent.com/70426380/181467240-23b50794-8e82-43e1-ad19-bbef73b20626.png)
+
 *Splash Screen
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2022-07-28 at 11 07 40](https://user-images.githubusercontent.com/70426380/181467795-abea823c-0b83-46e5-bb9d-bfb4ddc6fb43.png)
 
-*Home Screen
-![Simulator Screen Shot - iPhone 12 Pro Max - 2022-07-28 at 11 04 57](https://user-images.githubusercontent.com/70426380/181467326-970f3554-6cbb-43ec-8406-76ac7a61d788.png)
-
 *Language Screen
-
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2022-07-28 at 11 07 42](https://user-images.githubusercontent.com/70426380/181467818-a8bf1184-ba64-485e-97ec-1f656995e738.png)
 
 *Onboarding Screen
 $![Simulator Screen Shot - iPhone 12 Pro Max - 2022-07-28 at 11 07 45](https://user-images.githubusercontent.com/70426380/181467826-684681d1-8ce8-4377-b4c3-df78d39916e4.png)
 
-
-
-![Simulator Screen Shot - iPhone 12 Pro Max - 2022-07-28 at 11 05 24](https://user-images.githubusercontent.com/70426380/181467240-23b50794-8e82-43e1-ad19-bbef73b20626.png)
+*Home Screen
+![Simulator Screen Shot - iPhone 12 Pro Max - 2022-07-28 at 11 04 57](https://user-images.githubusercontent.com/70426380/181467326-970f3554-6cbb-43ec-8406-76ac7a61d788.png)
 
 
 
