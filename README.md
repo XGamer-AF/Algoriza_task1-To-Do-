@@ -22,6 +22,9 @@ $![Simulator Screen Shot - iPhone 12 Pro Max - 2022-07-28 at 11 07 45](https://u
 *Home Screen
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2022-07-28 at 11 04 57](https://user-images.githubusercontent.com/70426380/181467326-970f3554-6cbb-43ec-8406-76ac7a61d788.png)
 
+*Task Actions
+![Simulator Screen Shot - iPhone 12 Pro Max - 2022-07-28 at 11 15 13](https://user-images.githubusercontent.com/70426380/181469265-addaf6bf-052a-46e9-a6b0-5d7671b99d28.png)
+
 *Add Task Screen
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2022-07-28 at 11 05 10](https://user-images.githubusercontent.com/70426380/181467393-cc578617-e500-4980-be09-0fe8f5590cb4.png)
 
