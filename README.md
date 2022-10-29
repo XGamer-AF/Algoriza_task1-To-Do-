@@ -1,5 +1,4 @@
-# todo_app
-# Algoriza Task 2
+# Flutter ToDo App
 
 -Video of the app
 
